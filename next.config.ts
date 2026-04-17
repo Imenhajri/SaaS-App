@@ -19,8 +19,8 @@ export default withSentryConfig(withSentryConfig(nextConfig, {
 // For all available options, see:
 // https://www.npmjs.com/package/@sentry/webpack-plugin#options
 
-org: "jsmpro",
-project: "jsm_converso",
+org: "wimbee-s7",
+project: "javascript-nextjs",
 
 // Only print logs for uploading source maps in CI
 silent: !process.env.CI,
