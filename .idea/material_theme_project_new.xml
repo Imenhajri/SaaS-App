@@ -8,13 +8,5 @@
         <option name="userId" value="-550eb1e0:193ed65f74f:-7ff9" />
       </MTProjectMetadataState>
     </option>
-    <option name="titleBarState">
-      <MTProjectTitleBarConfigState>
-        <option name="enabled" value="true" />
-        <option name="projectFrameColorHex" value="131020" />
-        <option name="useProjectIcon" value="false" />
-        <option name="useProjectTitle" value="false" />
-      </MTProjectTitleBarConfigState>
-    </option>
   </component>
 </project>
